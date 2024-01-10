@@ -17,7 +17,7 @@ How to use:
 ```go
 http.ListenAndServe(":1384", Router.AppRoutes())
 ```
-The statement starts an HTTP server and starts listening for incoming requests on the specified port.
+The statement starts an HTTP server and starts listening for incoming requests on the specified port. (http://localhost:1384/)
 
 Specify a Api Key:
 ```go
