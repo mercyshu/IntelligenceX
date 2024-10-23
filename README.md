@@ -2,7 +2,7 @@
   <h1>IntelligenceX GoLang Project</h1>
 </div>
 <p align="center">
-   Intelligence X is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+   IntelligenceX is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 </p>
 
 To start project:
